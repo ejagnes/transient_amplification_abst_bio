@@ -2,13 +2,13 @@
 
 Georgia Christodoulou (1), Tim P. Vogels* (1,2), and Everton J. Agnes* (1,3)
 
-1 - Centre for Neural Circuits and Behaviour, University of Oxford, Oxford, UK
+(1) - Centre for Neural Circuits and Behaviour, University of Oxford, Oxford, UK
 
-2 - Institute for Science and Technology Austria, Klosterneuburg, Austria
+(2) - Institute for Science and Technology Austria, Klosterneuburg, Austria
 
-3 - Biozentrum, University of Basel, Basel, Switzerland
+(3) - Biozentrum, University of Basel, Basel, Switzerland
 
-* Equal contribution
+(*) Equal contribution
 
 ## Repository organisation
 
