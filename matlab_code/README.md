@@ -1,4 +1,4 @@
-# Code for simulations of figures 3A,B; 4A,B; and 7A-C.
+# Code for simulations of figures 3A,B; 4A,B; 5A; and 7E-G.
 
 ## How to run
 
