@@ -10,9 +10,11 @@ Figure 4A -> figure4_A.m
 
 Figure 4B -> figure4_B.m
 
-Figure 7A and 7B -> figure7_A_and_B.m
+Figure 5A - figure5_A.m
 
-Figure 7C -> figure7_C.m
+Figure 7E and 7F -> figure7_E_and_F.m
+
+Figure 7G -> figure7_G.m
 
 ## Files
 
