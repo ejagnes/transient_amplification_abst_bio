@@ -1,4 +1,4 @@
-# Code for simulations of figures 3A,B; 4A,B; 5A; and 7E-G.
+# Code for simulations of figures 3A,B; 4A,B; 5A; 7E-G; 8; and 9.
 
 ## How to run
 
@@ -15,6 +15,10 @@ Figure 5A - figure5_A.m
 Figure 7E and 7F -> figure7_E_and_F.m
 
 Figure 7G -> figure7_G.m
+
+Figure 8B, 8C, 8E, and 8F (without the schematics) -> figure8.m
+
+Figure 9C, 9D, and 9E (without the schematics) -> figure9.m
 
 ## Files
 
