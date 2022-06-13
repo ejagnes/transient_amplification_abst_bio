@@ -16,9 +16,9 @@ Figure 7E and 7F -> figure7_E_and_F.m
 
 Figure 7G -> figure7_G.m
 
-Figure 8B, 8C, 8E, and 8F (without the schematics) -> figure8.m
+Figure 8B, 8C, 8E, and 8F (no schematics) -> figure8.m
 
-Figure 9C, 9D, and 9E (without the schematics) -> figure9.m
+Figure 9C, 9D, and 9E (no schematics) -> figure9.m
 
 ## Files
 
