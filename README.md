@@ -10,6 +10,8 @@ Georgia Christodoulou (1), Tim P. Vogels* (1,2), and Everton J. Agnes* (1,3)
 
 (*) Equal contribution
 
+https://doi.org/10.1371/journal.pcbi.1010365
+
 ## Repository organisation
 
 The folder "matlab_code" contains the code to run simulations and generate figures.
